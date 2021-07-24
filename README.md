@@ -1,6 +1,3 @@
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0507">
-
-
 <div><h2>👋 Hi, I’m @JaeKyung </h2></div>
 <div>
 <a href="https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902"> 
@@ -17,7 +14,7 @@
       <img 
            src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://rainbow97.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
-      
+      <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0507">
 <dir>
 <h3><b> :mortar_board: Education </b></h3>
 <h5> ⦁ 경희대학교 수학과(본전공) 2016.03 - 2022.02 </h5>

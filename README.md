@@ -1,4 +1,4 @@
-<div><h2>👋 Hi, I’m @JaeKyung </h2></div>
+<div><h2>👋 Hi, I’m JaeKyung Heo </h2></div>
 <div>
 <a href="https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902"> 
       <img 

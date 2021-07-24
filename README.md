@@ -45,8 +45,8 @@
 </br>
 <h3><b> 🔭 Github Stats </b></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeKyungHeo&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeKyungHeo&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeKyungHeo&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeKyungHeo&layout=compact)](https://github.com/metleeha)
 
       
 

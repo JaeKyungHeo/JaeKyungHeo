@@ -18,7 +18,7 @@
 <dir>
 <h3><b> :mortar_board: Education </b></h3>
 <h5> ⦁ 경희대학교 수학과(본전공) 2016.03 - 2022.02 </h5>
-<h5> ⦁ 경희대학교 컴퓨터공학과(복수전공) 2016.03 - 2022.02 </h5>
+<h5> ⦁ KYUNG HEE UNIVERSITY Computer Science(Double major) 2016.03 - 2022.02 </h5>
 <h5> ⦁ 괴산고등학교 이과계열 2013.03 - 2016.02</h5>
 </dir>
 </br>

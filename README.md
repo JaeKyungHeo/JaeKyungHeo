@@ -17,9 +17,9 @@
       <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0507">
 <dir>
 <h3><b> :mortar_board: Education </b></h3>
-<h5> ⦁ Kyung Hee University Mathematics(major) 2016.03 - 2022.02 </h5>
-<h5> ⦁ Kyung Hee University Computer Science(Double major) 2016.03 - 2022.02 </h5>
-<h5> ⦁ Goesan high school 2013.03 - 2016.02</h5>
+<h5> ⦁ 경희대학교 수학과(본전공) 2016.03 - 2022.02 </h5>
+<h5> ⦁ 경희대학교 컴퓨터공학과(복수전공) 2016.03 - 2022.02 </h5>
+<h5> ⦁ 괴산고등학교 2013.03 - 2016.02</h5>
 </dir>
 </br>
  <h3><b> :running: Experience </b></h3>

@@ -18,7 +18,7 @@
 <dir>
 <h3><b> :mortar_board: Education </b></h3>
 <h5> ⦁ Kyung Hee University Mathematics(major) 2016.03 - 2022.02 </h5>
-<h5> ⦁ KYUNG HEE University Computer Science(Double major) 2016.03 - 2022.02 </h5>
+<h5> ⦁ Kyung Hee University Computer Science(Double major) 2016.03 - 2022.02 </h5>
 <h5> ⦁ Goesan high school 2013.03 - 2016.02</h5>
 </dir>
 </br>

@@ -46,7 +46,7 @@
 <h3><b> 🔭 Github Stats </b></h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeKyungHeo&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeKyungHeo&layout=compact)](https://github.com/JaeKyungHeo)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeKyungHeo&layout=compact)](https://www.acmicpc.net/user/hjy0507)
 
       
 

@@ -14,7 +14,7 @@
       <img 
            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaekyung507@gmail.com"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
-      <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0507">(https://www.acmicpc.net/user/hjy0507)
+      <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0507">
 <dir>
 <h3><b> :mortar_board: Education </b></h3>
 <h5> ⦁ 경희대학교 수학과(본전공) 2016.03 - 2022.02 </h5>

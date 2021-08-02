@@ -1,5 +1,10 @@
 <div><h2>👋 Hi, I’m JaeKyung Heo </h2></div>
 <div>
+      
+<a href="https://rainbow97.tistory.com/"> 
+      <img 
+           src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://rainbow97.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>      
 <a href="https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902"> 
       <img 
            src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
@@ -10,10 +15,7 @@
            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaekyung507@gmail.com"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
 
-<a href="https://rainbow97.tistory.com/"> 
-      <img 
-           src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://rainbow97.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
+
       <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0507">
 <dir>
 <h3><b> :mortar_board: Education </b></h3>
